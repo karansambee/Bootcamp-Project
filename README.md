@@ -1,2 +1,4 @@
 # adck805
-Public repository of @karansambee
+Bootcamp project
+
+Name: Karan Sambee
